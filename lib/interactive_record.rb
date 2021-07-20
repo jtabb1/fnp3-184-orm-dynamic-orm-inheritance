@@ -1,3 +1,5 @@
+# This given demonstration file was read by Jeremiah Tabb
+
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
 
